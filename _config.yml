@@ -4,13 +4,13 @@
 
 # Site
 title: Anwar的部落格😶‍🌫️
-subtitle: '无趣的'
-description: '带小孩的'
+subtitle: '一些无趣的事情的记录'
+description: 'Anwar的部落格'
 keywords: "Teacher,Blog,个人博客,博客,分享,记录"
 author: Anwuru
 email: Anwuru@qq.com
-language: cn
-timezone: ''
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
