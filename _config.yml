@@ -104,7 +104,7 @@ theme: yilia
 ## Docs: https://Anwar.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/anwuru/anwuru.github.io.git
+  repo: https://github.com/anwuru/Webpublic1
   branch: main
 
 jsonContent:
